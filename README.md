@@ -1,1 +1,1 @@
-It helps to convert any currency like inr to usd pound to inr
+eddy_bot is a smart currency converter chatbot powered by Flask, Dialogflow, and CurrencyAPI. It understands natural language queries like "Convert 10 USD to INR" and gives accurate real-time conversion results
